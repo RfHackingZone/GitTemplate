@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD032 MD033-->
-# 🔥 **Josee9988's Github Project Template**
+# 🔥 **Rehan bharat's Github Project Template**
 
 <p align="center">
   <a href="https://github.com/Josee9988/project-template/generate">
@@ -256,4 +256,4 @@ Enjoy! 😃
 > The script **SETUP_TEMPLATE.sh** should be executed right when you clone your new repository generated from [here](https://github.com/Josee9988/project-template/generate).
 > There will be files that will need *manual revision* ⚠️
 
-_Made with a lot of ❤️❤️ by **[@Josee9988](https://github.com/Josee9988)**_
+_Made with a lot of ❤️❤️ **_
